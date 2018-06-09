@@ -76,7 +76,7 @@
         {
           "_params": {
             "blockTitle": "<h3kalenteri</h3>",
-            "HTMLCode": "<iframe src=\"https://calendar.google.com/calendar/embed?src=korkealeho.maijala%40gmail.com&ctz=Europe%2FHelsinki\" style=\"border: 0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+            "HTMLCode": "<iframe src=\"https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;hl=fi&amp;bgcolor=%23FFFFFF&amp;src=korkealeho.maijala%40gmail.com&amp;color=%231B887A&amp;src=fi.finnish%23holiday%40group.v.calendar.google.com&amp;color=%23125A12&amp;src=e_2_fi%23weeknum%40group.v.calendar.google.com&amp;color=%23333333&amp;ctz=Europe%2FHelsinki\" style=\"border-width:0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>",
             "extEdit": true,
             "paddingTop": 20,
             "bgImageRadio": false,
@@ -89,7 +89,7 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "<h3kalenteri</h3>",
-          "HTMLCode": "<iframe src=\"https://calendar.google.com/calendar/embed?src=korkealeho.maijala%40gmail.com&ctz=Europe%2FHelsinki\" style=\"border: 0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+          "HTMLCode": "<iframe src=\"https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;hl=fi&amp;bgcolor=%23FFFFFF&amp;src=korkealeho.maijala%40gmail.com&amp;color=%231B887A&amp;src=fi.finnish%23holiday%40group.v.calendar.google.com&amp;color=%23125A12&amp;src=e_2_fi%23weeknum%40group.v.calendar.google.com&amp;color=%23333333&amp;ctz=Europe%2FHelsinki\" style=\"border-width:0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
