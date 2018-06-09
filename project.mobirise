@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "korkealehon kiertajat",
-    "currentPage": "varaus.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 59,
     "versionPublish": "4.7.2",
@@ -457,7 +457,7 @@
         },
         {
           "_params": {
-            "blockTitle": "<p>varauskalenteri</p>",
+            "blockTitle": "<p><strong><br data-mce-bogus=\"1\"></strong></p><p><strong><br></strong></p><p><br></p><p><br data-mce-bogus=\"1\"></p><p><strong>Maijalan varauskalenteri</strong></p>",
             "HTMLCode": "    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-6\">\n    <iframe src=\"https://calendar.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&height=350&wkst=2&bgcolor=%23FFFFFF&src=korkealeho.maijala%40gmail.com&color=%231B887A&src=fi.finnish%23holiday%40group.v.calendar.google.com&color=%23125A12&src=e_2_fi%23weeknum%40group.v.calendar.google.com&color=%23333333&ctz=Europe%2FHelsinki\" style=\"border-width:0\" width=\"800\" height=\"350\" frameborder=\"0\" scrolling=\"no\"></iframe>\n            </div>\n            <div class=\"col-6\">\n            </div>\n        </div>\n    </div>",
             "extEdit": true,
             "paddingTop": 20,
@@ -1163,19 +1163,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/f-802x543.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/f-802x543-800x542.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/e3-802x543.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/e3-802x543-800x542.jpg",
                 "alt": "",
@@ -1243,6 +1230,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-06-26-at-090653-432x768.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-06-26-at-090653-432x768-432x768.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20160826-214142-2000x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160826-214142-2000x1200-800x480.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
