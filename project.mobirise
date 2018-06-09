@@ -50,12 +50,12 @@
       "components": [
         {
           "_params": {
-            "blockTitle": "",
-            "HTMLCode": "<h1>HTML Code</h1>",
+            "blockTitle": "<p>varauskalenteri</p>",
+            "HTMLCode": "    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-6\">\n    <iframe src=\"https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=350&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=korkealeho.maijala%40gmail.com&amp;color=%231B887A&amp;src=fi.finnish%23holiday%40group.v.calendar.google.com&amp;color=%23125A12&amp;src=e_2_fi%23weeknum%40group.v.calendar.google.com&amp;color=%23333333&amp;ctz=Europe%2FHelsinki\" style=\"border-width:0\" width=\"800\" height=\"350\" frameborder=\"0\" scrolling=\"no\"></iframe>\n            </div>\n            <div class=\"col-6\">\n                <h1>Maijalan varauskalenteri</h1>\n            </div>\n        </div>\n    </div>",
             "extEdit": false,
-            "paddingTop": "40",
+            "paddingTop": 20,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/10447-800x526.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -63,33 +63,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "blockTitle": "",
-          "HTMLCode": "",
-          "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
-          "alias": "htmlblock",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-1j"
-        },
-        {
-          "_params": {
-            "blockTitle": "varauskalenteri",
-            "HTMLCode": "<iframe src=\"https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;hl=fi&amp;bgcolor=%23FFFFFF&amp;src=korkealeho.maijala%40gmail.com&amp;color=%231B887A&amp;src=fi.finnish%23holiday%40group.v.calendar.google.com&amp;color=%23125A12&amp;src=e_2_fi%23weeknum%40group.v.calendar.google.com&amp;color=%23333333&amp;ctz=Europe%2FHelsinki\" style=\"border-width:0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-            "extEdit": false,
-            "paddingTop": 20,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/10447-800x526.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "blockTitle": "varauskalenteri",
-          "HTMLCode": "",
+          "blockTitle": "<p>varauskalenteri</p>",
+          "HTMLCode": "    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-6\">\n    <iframe src=\"https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=350&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=korkealeho.maijala%40gmail.com&amp;color=%231B887A&amp;src=fi.finnish%23holiday%40group.v.calendar.google.com&amp;color=%23125A12&amp;src=e_2_fi%23weeknum%40group.v.calendar.google.com&amp;color=%23333333&amp;ctz=Europe%2FHelsinki\" style=\"border-width:0\" width=\"800\" height=\"350\" frameborder=\"0\" scrolling=\"no\"></iframe>\n            </div>\n            <div class=\"col-6\">\n                <h1>Maijalan varauskalenteri</h1>\n            </div>\n        </div>\n    </div>",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
